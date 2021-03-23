@@ -26,5 +26,10 @@ export const Container = styled.div`
       line-height: 3rem;
       font-weight: 500;
     }
+
+    &.highlight-background {
+      background: var(--green);
+      color: #fff;
+    }
   }
 `;

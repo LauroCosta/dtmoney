@@ -1,1 +1,1 @@
-# dtmoney
+Sistema simples de controle financeiro
